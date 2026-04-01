@@ -14,8 +14,29 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Serena6688/leetcodeqs/tree/main/0041-first-missing-positive/) | undefined |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Serena6688/leetcodeqs/tree/main/0041-first-missing-positive/) | undefined |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 <!---LeetCode Topics End-->
