@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Serena6688/leetcodeqs/tree/main/0041-first-missing-positive/) | undefined |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Serena6688/leetcodeqs/tree/main/0167-two-sum-ii-input-array-is-sorted/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Serena6688/leetcodeqs/tree/main/0167-two-sum-ii-input-array-is-sorted/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -39,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Serena6688/leetcodeqs/tree/main/0167-two-sum-ii-input-array-is-sorted/) | undefined |
 <!---LeetCode Topics End-->
