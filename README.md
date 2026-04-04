@@ -18,6 +18,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Serena6688/leetcodeqs/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Serena6688/leetcodeqs/tree/main/0167-two-sum-ii-input-array-is-sorted/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Serena6688/leetcodeqs/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
 <!---LeetCode Topics End-->
