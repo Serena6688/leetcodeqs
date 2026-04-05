@@ -20,6 +20,7 @@
 | [1028-interval-list-intersections](https://github.com/Serena6688/leetcodeqs/tree/main/1028-interval-list-intersections/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1028-interval-list-intersections](https://github.com/Serena6688/leetcodeqs/tree/main/1028-interval-list-intersections/) | undefined |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 <!---LeetCode Topics End-->
