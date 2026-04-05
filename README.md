@@ -10,6 +10,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Serena6688/leetcodeqs/tree/main/0764-n-ary-tree-level-order-traversal/) | undefined |
 ## Array
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/Serena6688/leetcodeqs/tree/main/0041-first-missing-positive/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Serena6688/leetcodeqs/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Serena6688/leetcodeqs/tree/main/0167-two-sum-ii-input-array-is-sorted/) | undefined |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1028-interval-list-intersections](https://github.com/Serena6688/leetcodeqs/tree/main/1028-interval-list-intersections/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
@@ -26,6 +28,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Serena6688/leetcodeqs/tree/main/0041-first-missing-positive/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Serena6688/leetcodeqs/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +36,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -42,6 +46,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Heap (Priority Queue)
@@ -81,4 +86,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 <!---LeetCode Topics End-->
