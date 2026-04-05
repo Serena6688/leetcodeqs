@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Serena6688/leetcodeqs/tree/main/2017-minimum-number-of-flips-to-make-the-binary-string-alternating/) | undefined |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Serena6688/leetcodeqs/tree/main/2017-minimum-number-of-flips-to-make-the-binary-string-alternating/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Serena6688/leetcodeqs/tree/main/2017-minimum-number-of-flips-to-make-the-binary-string-alternating/) | undefined |
 <!---LeetCode Topics End-->
