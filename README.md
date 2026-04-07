@@ -21,6 +21,7 @@
 | [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1028-interval-list-intersections](https://github.com/Serena6688/leetcodeqs/tree/main/1028-interval-list-intersections/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Serena6688/leetcodeqs/tree/main/1478-maximum-number-of-events-that-can-be-attended/) | undefined |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Serena6688/leetcodeqs/tree/main/1570-final-prices-with-a-special-discount-in-a-shop/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Hash Table
@@ -49,11 +50,13 @@
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/Serena6688/leetcodeqs/tree/main/0721-accounts-merge/) | undefined |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Serena6688/leetcodeqs/tree/main/1478-maximum-number-of-events-that-can-be-attended/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1397-search-suggestions-system](https://github.com/Serena6688/leetcodeqs/tree/main/1397-search-suggestions-system/) | undefined |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Serena6688/leetcodeqs/tree/main/1478-maximum-number-of-events-that-can-be-attended/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +85,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Serena6688/leetcodeqs/tree/main/1478-maximum-number-of-events-that-can-be-attended/) | undefined |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Serena6688/leetcodeqs/tree/main/1845-largest-submatrix-with-rearrangements/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
